@@ -1,0 +1,173 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "7b249a56-4a17-49c4-a59a-3c29ea3836e8",
+   "metadata": {},
+   "source": [
+    "# Tools For Data Science"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "88060192-711b-4cb0-8792-23edea6b6ca0",
+   "metadata": {},
+   "source": [
+    "In This notebook, Data science tools and Ecosystem are summarized."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a2508191-2f6d-406a-8a77-0e7c73174769",
+   "metadata": {},
+   "source": [
+    "some of the most popular languages that data scienttists are using:\n",
+    "\n",
+    "1. Python\n",
+    "2.  R\n",
+    "3. SQL\n",
+    "4. C++\n",
+    "5.  Java & etc..."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "535b26a3-e73f-47b8-aa95-c0ddc267d52c",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries are:\n",
+    "\n",
+    "1. TENSERFLOW\n",
+    "2. NUMPY\n",
+    "3. matplotlib\n",
+    "4. pytorch\n",
+    "5. scikit learn\n",
+    "6. Scipy\n",
+    "7. pandas"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6eccfe88-b670-4eff-b1e7-d8ea1b261ee9",
+   "metadata": {},
+   "source": [
+    "| Data Sciemce Tools |\n",
+    "|--- |\n",
+    "|SAS|\n",
+    "|Apache Hadoop|\n",
+    "|Tenser flow|\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ab1f6845-de6e-4bae-a44c-0188dda18bca",
+   "metadata": {},
+   "source": [
+    "# a few examples of evaluating arithmetic expressions in Python:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "61822e03-725f-4d6e-9628-9f521305cd3c",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "#this is a common arithmetic example\n",
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "f26e12bd-4e10-4ab8-b02f-406658cc78ef",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "#this will convert 200 minutes to hours\n",
+    "200/60\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "93b19bfb-f817-420e-8460-827bf0ee5026",
+   "metadata": {},
+   "source": [
+    "# Objective"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8690467f-13f0-4aed-8464-a6c6313af745",
+   "metadata": {},
+   "source": [
+    "- List of popular languages for data science\n",
+    "-  List of popular libraries\n",
+    "-  List of well known tools\n",
+    "-  how to provide comments in cells\n",
+    "  "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e267a603-37d3-474e-ac0f-1892f7ac34b0",
+   "metadata": {},
+   "source": [
+    "\n",
+    "# Author"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0dce9698-2748-4b12-9f87-e9a57164b3e6",
+   "metadata": {},
+   "source": [
+    "Sarah Valipoor"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
